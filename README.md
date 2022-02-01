@@ -53,4 +53,4 @@ OPEN CONTRIBUTION
 Ludie Lambright
 ludiefletcher@gmail.com
 
-[Website Live Link](https://tech-blog-veidul.herokuapp.com/)
+[Website Live Link](https://workout-tracker-veidul.herokuapp.com/)
